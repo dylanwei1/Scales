@@ -6,8 +6,8 @@ void setup() {
 }
 void draw() {
   //your code here
-    for(int y = 10; y<500; y+=30){
-    for(int x = 10; x<500; x+=30){
+    for(int y = 10; y<600; y+=30){
+    for(int x = 10; x<600; x+=30){
       scale(x,y);
     }
   }
